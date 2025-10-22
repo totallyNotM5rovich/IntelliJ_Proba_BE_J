@@ -7,5 +7,6 @@ public class Main {
             sum += i;
         }
         System.out.println("Suma brojeva je: " + sum);
+        //Komentar iz GitHub repozitorija
     }
 }
